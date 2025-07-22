@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navbar,
+a {
+  margin: auto;
+}
+body {
+  background-color: rgb(203, 211, 204);
+  background-image: url("https://images.pexels.com/photos/2449543/pexels-photo-2449543.jpeg");
+  background-color: #cccccc;
+}
+.temp {
+  height: 10px;
+}
